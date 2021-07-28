@@ -1,0 +1,3 @@
+/mnt/c/Users/ching/OneDrive/Desktop/Lernen/Self_Learning/C/CLionProjects/sortingAlgosAndTrees/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ching/OneDrive/Desktop/Lernen/Self_Learning/C/CLionProjects/sortingAlgosAndTrees/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/ching/OneDrive/Desktop/Lernen/Self_Learning/C/CLionProjects/sortingAlgosAndTrees/cmake-build-debug/CMakeFiles/untitled.dir

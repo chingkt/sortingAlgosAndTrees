@@ -1,3 +1,3 @@
 # sortingAlgosAndTrees
 
-Sorting algorithms and binary trees for own experiments
+Sorting algorithms and binary trees for personal experiments
